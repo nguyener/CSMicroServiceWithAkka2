@@ -1,0 +1,13 @@
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\CSMicroServiceWithAkka2.exe.config
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\CSMicroServiceWithAkka2.exe
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\CSMicroServiceWithAkka2.pdb
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\Akka.dll
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\EntityFramework.dll
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\Akka.xml
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\EntityFramework.xml
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\obj\Debug\CSMicroServiceWithAkka2.exe
+C:\Users\v-honguy\Documents\Visual Studio 2015\Projects\CSMicroServiceWithAkka2\CSMicroServiceWithAkka2\obj\Debug\CSMicroServiceWithAkka2.pdb
